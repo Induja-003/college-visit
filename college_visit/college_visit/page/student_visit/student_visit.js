@@ -62,13 +62,13 @@ frappe.pages['student-visit'].on_page_load = function (wrapper) {
                     </div>
 
 
-                    <!-- TOTAL VISITS -->
+                    <!-- TODAY's VISITS -->
 
                     <div class="visit-card">
 
                         <h4>Today's Visits</h4>
 
-                        <h2 id="total_visits">0</h2>
+                        <h2 id="today's_visits">0</h2>
 
                     </div>
 
